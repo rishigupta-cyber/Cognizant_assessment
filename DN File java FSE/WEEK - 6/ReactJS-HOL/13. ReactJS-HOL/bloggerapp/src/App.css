@@ -1,0 +1,12 @@
+.container {
+  display: flex;
+}
+
+.mystyle1, .st2, .v1 {
+  padding: 80px 150px;
+  border-right: 3px solid green;
+}
+
+.v1 {
+  border-right: none;
+}
